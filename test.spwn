@@ -1,0 +1,10 @@
+extract obj_props
+
+let my_object = obj {
+    OBJ_ID: 54,
+    X: 300,
+    Y: 90,
+    SCALING: 1.5,
+}
+
+$.add(my_object)
